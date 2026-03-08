@@ -2,6 +2,11 @@
 
 A real-time SDF raymarcher built with **GLFW + OpenGL 3 + Dear ImGui**, adapted from [Inigo Quilez's Shadertoy distance-function collection](https://iquilezles.org/articles/distfunctions/). The entire render pipeline runs inside a single GLSL fragment shader on a fullscreen quad.
 
+<p align="left">
+  <img src="resources/image-raymarching.png" width="800">
+</p>
+
+
 ---
 
 ## Architecture

@@ -1,0 +1,10 @@
+cmake-build-debug
+.idea
+build
+build-test
+build-msvc
+.vs
+.cache
+.claude
+CMakeSettings.json
+tmp*
