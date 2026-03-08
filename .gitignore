@@ -3,7 +3,7 @@ cmake-build-debug
 build/**
 build-test/**
 build-msvc/**
-.vscode
+.vscode/**
 .vs
 .cache
 .claude
