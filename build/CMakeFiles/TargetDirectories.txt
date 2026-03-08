@@ -1,3 +1,0 @@
-/home/marti/proy/SDL_raymarching/build/CMakeFiles/example_glfw_opengl3.dir
-/home/marti/proy/SDL_raymarching/build/CMakeFiles/edit_cache.dir
-/home/marti/proy/SDL_raymarching/build/CMakeFiles/rebuild_cache.dir
